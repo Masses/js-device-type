@@ -1,5 +1,9 @@
 /**
- * Copyright (C) <year>  <name of author>
+ * This file returns a string indicating whether the device is:
+ * console, mobile, tablet, or desktop
+ * in the case of no predetermined matches, it defaults to desktop
+ * Copyright (C) 2013  Brian McCaffrey
+ * 
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
